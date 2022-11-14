@@ -1,0 +1,30 @@
+html{
+    background-color: black;
+}
+body{
+    overflow: auto;
+    margin:0%;
+    width: 100%;
+    font-size: xx-large;
+}
+.number{
+    height:100%;
+}
+.white{
+    color: rgb(23, 23, 23);
+}
+.green{
+    color:green;
+}
+.blue{
+    color:blue;
+}
+.red{
+    color:red;
+}
+.purple{
+    color:purple;
+}
+.indigo{
+    color:indigo;
+}
